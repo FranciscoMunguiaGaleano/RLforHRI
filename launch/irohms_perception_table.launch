@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="irohms_iql" type="irohms_perception_table.py" name="irohms_perception_table" output="screen"/>
+	<node pkg="irohms_iql" type="irohms_planner.py" name="irohms_planner" output="screen"/>
+</launch>

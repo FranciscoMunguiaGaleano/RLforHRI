@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="irohms_iql" type="irohms_inverse_kinematics.py" name="irohms_inverse_kinematics" output="screen"/>
+</launch>
