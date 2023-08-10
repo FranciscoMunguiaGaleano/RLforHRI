@@ -5,4 +5,4 @@ Planning precise manipulation in robotics to perform grasp and release-related o
 F. Munguia-Galeano, S. Veeramani, J. D. Hernández, Q. Wen and Z. Ji, "Affordance-based human-robot interaction with reinforcement learning," in IEEE Access, doi: 10.1109/ACCESS.2023.3262450.
 
 
-[![Alt Text][(http://img./0.jpg](https://img.youtube.com/vi/raVeVjPv_Rc/0.jpg)](https://www.youtube.com/watch?v=raVeVjPv_Rc)
+[![Alt Text][(https://img.youtube.com/vi/raVeVjPv_Rc/0.jpg)](https://www.youtube.com/watch?v=raVeVjPv_Rc)
