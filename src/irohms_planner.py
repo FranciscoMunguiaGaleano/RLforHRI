@@ -87,10 +87,7 @@ class IDQL():
         vertical=[]
         horizontal=[]
         for i in range(0,n):
-            ve
-
-
-rtical.append([i*x_ref-x_offset,0,i*x_ref-x_offset,SH])
+            vertical.append([i*x_ref-x_offset,0,i*x_ref-x_offset,SH])
         for j in range(0,m):
             horizontal.append([0,j*y_ref-y_offset,SW,j*y_ref-y_offset])
         #when offset x is positive add a column at the begining
